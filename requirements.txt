@@ -5,8 +5,5 @@ https://github.com/1Danish-00/Telethon/archive/master.zip
 html_telegraph_poster
 requests
 Flask==2.2.2
-
 gunicorn==20.1.0
-
 aiohttp==3.8.1
-
